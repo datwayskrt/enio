@@ -65,13 +65,13 @@ export default function Home() {
       <footer className={styles.footer}>
     
           <span className={styles.logo}>
-            <a href='https://twitter.com/eniocarlosao' target={'_blank'}>
+            <a href='https://twitter.com/eniocarlosao' target={'_blank'} rel="noreferrer">
               <Image src="/git.svg" alt="github" width={72} height={16} />
             </a>
-            <a href='https://github.com/datwayskrt' target={'_blank'}>
+            <a href='https://github.com/datwayskrt' target={'_blank'} rel="noreferrer" >
                <Image src="/twt.svg" alt="twitter" width={72} height={16} />
             </a>
-            <a href='https://linkedin.com/in/eniocarlos' target={'_blank'}>
+            <a href='https://linkedin.com/in/eniocarlos' target={'_blank'} rel="noreferrer">
               <Image src="/link.svg" alt="linkedin" width={72} height={16} />
             </a>
             

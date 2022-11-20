@@ -19,11 +19,12 @@ export default function Home() {
         <p className={styles.description}>
           
           <a href=''>
-          <code className={styles.code}>hireMe(👨🏿‍💻)</code> &rarr; software engineer{' 🚀'}
+          <code className={styles.code}>hireMe(👨🏿‍💻)</code> &rarr; software engineer{''}
           </a>
         </p>
 
         <div className={styles.grid}>
+          
           <ul className={styles.list}>
           <li><a href="#" className={styles.card}>
             <h2>Meet The Big O &rarr;</h2>
@@ -66,13 +67,13 @@ export default function Home() {
     
           <span className={styles.logo}>
             <a href='https://twitter.com/eniocarlosao' target={'_blank'} rel="noreferrer">
-              <Image src="/git.svg" alt="github" width={72} height={16} />
+              <Image src="/git.svg" alt="github" width={72} height={23} />
             </a>
             <a href='https://github.com/datwayskrt' target={'_blank'} rel="noreferrer" >
-               <Image src="/twt.svg" alt="twitter" width={72} height={16} />
+               <Image src="/twt.svg" alt="twitter" width={72} height={25} />
             </a>
             <a href='https://linkedin.com/in/eniocarlos' target={'_blank'} rel="noreferrer">
-              <Image src="/link.svg" alt="linkedin" width={72} height={16} />
+              <Image src="/link.svg" alt="linkedin" width={72} height={25} />
             </a>
             
           </span>

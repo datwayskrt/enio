@@ -93,7 +93,7 @@
 .card h2 {
   display: block;
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1.20rem;
   margin-top: -1.5rem;
 }
 
@@ -102,7 +102,7 @@
 .card p {
   color:gray;
   margin: 0;
-  font-size: 1rem;
+  font-size: .8rem;
   line-height: 1.5; 
   font-weight:300;
 }

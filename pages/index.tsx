@@ -28,7 +28,7 @@ export default function Home() {
           <ul className={styles.list}>
           <li><a href="#" className={styles.card}>
             <h2>Meet The Big O &rarr;</h2>
-            <p>May 12, 2022</p>
+            <p>May 12, 2022</p> 
           </a>
           </li>
           <li>

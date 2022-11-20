@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           
-          <a href=''>
+          <a href='https://linkedin.com/in/eniocarlos'>
           <code className={styles.code}>hireMe(👨🏿‍💻)</code> &rarr; software engineer{''}
           </a>
         </p>
@@ -67,13 +67,13 @@ export default function Home() {
     
           <span className={styles.logo}>
             <a href='https://twitter.com/eniocarlosao' target={'_blank'} rel="noreferrer">
-              <Image src="/git.svg" alt="github" width={72} height={23} />
+              <Image src="/git.svg" alt="github" width={72} height={20} />
             </a>
             <a href='https://github.com/datwayskrt' target={'_blank'} rel="noreferrer" >
-               <Image src="/twt.svg" alt="twitter" width={72} height={25} />
+               <Image src="/twt.svg" alt="twitter" width={72} height={21} />
             </a>
             <a href='https://linkedin.com/in/eniocarlos' target={'_blank'} rel="noreferrer">
-              <Image src="/link.svg" alt="linkedin" width={72} height={25} />
+              <Image src="/link.svg" alt="linkedin" width={72} height={21} />
             </a>
             
           </span>

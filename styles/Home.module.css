@@ -67,7 +67,7 @@
 
 .grid {
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   flex-direction: column;
   flex-wrap: wrap;

@@ -23,11 +23,11 @@ export default function Home() {
           </a>
         </p>
 
-        <div className={styles.grid}>
+        <div className={styles.grid} >
           
           <ul className={styles.list}>
-          <li><a href="#" className={styles.card}>
-            <h2>Meet The Big O &rarr;</h2>
+          <li ><a href="#" className={styles.card}>
+            <h2>Big O says your code is tr#sh&rarr;</h2>
             <p>May 12, 2022</p> 
           </a>
           </li>
